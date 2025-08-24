@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Proyecto Erick-Larkins">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/bootstrap-5.3.3-dist.zip!/" />
+      <root url="jar://$PROJECT_DIR$/font-awesome-4.7.0.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
