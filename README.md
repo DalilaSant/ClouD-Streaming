@@ -35,8 +35,8 @@
     ```
     /Proyecto-Cloud-Streaming
     │
-    ├─ index.html          -> Página principal
-    ├─ index1.html         -> Página con carousel de películas
+    ├─ index-old.html          -> Página principal
+    ├─ index.html         -> Página con carousel de películas
     ├─ login.html          -> Login de usuario
     ├─ registrar.html      -> Registro de usuario
     ├─ css/
